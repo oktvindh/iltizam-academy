@@ -196,7 +196,7 @@
          
       
      
-        <li class="menu-label">Role & Permission</li>
+        <!-- <li class="menu-label">Role & Permission</li>
         <li>
             <a class="has-arrow" href="javascript:;">
                 <div class="parent-icon"><i class="bx bx-line-chart"></i>
@@ -214,7 +214,7 @@
                 </li>
                 
             </ul>
-        </li>
+        </li> -->
 
         <li>
             <a class="has-arrow" href="javascript:;">
