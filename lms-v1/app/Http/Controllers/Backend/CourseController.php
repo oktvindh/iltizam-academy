@@ -42,7 +42,7 @@ class CourseController extends Controller
     public function StoreCourse(Request $request){
 
         $request->validate([
-            'video' => 'mimes:mp4|max:10000',
+            'video' => 'nullable|mimes:mp4|max:51200',
                         // required|mimes:mp4|max:10000',
         ]);
 
