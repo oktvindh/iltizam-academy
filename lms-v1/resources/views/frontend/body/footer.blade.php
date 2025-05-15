@@ -19,7 +19,7 @@
                     <ul class="social-icons social-icons-styled">
                         <!-- <li class="mr-1"><a href="{{ $setting->facebook }}" class="facebook-bg"><i class="la la-facebook"></i></a></li> -->
                         <!-- <li class="mr-1"><a href="{{ $setting->twitter }}" class="twitter-bg"><i class="la la-twitter"></i></a></li> -->
-                        <li class="mr-1"><a href="https://www.instagram.com/santutor.id/" class="instagram-bg"><i class="la la-instagram"></i></a></li>
+                        <li class="mr-1"><a href="https://www.instagram.com/iltizamstudio/" class="instagram-bg"><i class="la la-instagram"></i></a></li>
                         <li class="mr-1"><a href="#" class="linkedin-bg"><i class="la la-linkedin"></i></a></li>
                     </ul>
                 </div><!-- end footer-item -->

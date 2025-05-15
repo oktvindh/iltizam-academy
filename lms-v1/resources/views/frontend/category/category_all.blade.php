@@ -2,7 +2,7 @@
 @section('home')
 
 @section('title')
-{{ $category->category_name }} | Santutor
+{{ $category->category_name }} | Iltizam Studio
 @endsection
 <!-- ================================
     START BREADCRUMB AREA

@@ -48,14 +48,14 @@
     <tr>
         <td valign="top">
           <!-- {{-- <img src="" alt="" width="150"/> --}} -->
-          <h2 style="color: green; font-size: 26px;"><strong>Santutor</strong></h2>
+          <h2 style="color: green; font-size: 26px;"><strong>Iltizam Studio</strong></h2>
         </td>
         <td align="right">
             <pre class="font" >
-               Santutor Head Office
-               Email:support@santutor.com <br>
+            Iltizam Studio Head Office
+               Email:support@iltizam.com <br>
                Mob: 1245454545 <br>
-               Jakarta, Indonesia <br>
+               Bogor, Indonesia <br>
               
             </pre>
         </td>

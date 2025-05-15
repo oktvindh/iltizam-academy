@@ -1,7 +1,7 @@
 @extends('frontend.master')
 @section('home')
 @section('title')
-Login Page | Santutor
+Login Page | Iltizam Studio
 @endsection
 
 <!-- ================================

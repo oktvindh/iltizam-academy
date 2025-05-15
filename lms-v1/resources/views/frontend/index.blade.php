@@ -2,7 +2,7 @@
 @section('home')
 
 @section('title')
-Santutor
+Iltizam Studio
 @endsection
 
 <!--================================

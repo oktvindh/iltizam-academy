@@ -49,7 +49,7 @@
 							<div class="card-body p-sm-5">
 								<div class="">
 									<div class="mb-3 text-center">
-										<a href="{{ url('/') }}" class="logo"><img src="{{ asset('frontend/images/logo.png') }}" alt="logo"></a>
+										<a href="{{ url('/') }}" class="logo"><img src="{{ asset('frontend/images/logo.png') }}" alt="logo" width="150"></a>
 									</div>
 									<div class="text-center mb-4">
 										<h5 class="">Admin Login </h5>
