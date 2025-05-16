@@ -158,15 +158,15 @@
                                       <div class="row">
                                         <div class="col-sm-6">
                                             <div class="card mb-5">
-                                                <img src="{{asset('frontend/images/qris-img.jpeg')}}" alt="" >
+                                                <img src="{{asset('frontend/images/qrcode.png')}}" alt="" >
                                             </div>
                                         </div>
                                         <div class="col-sm-6">
                                             <div class="card mb-3">
-                                                <img src="{{asset('frontend/images/logo_bca.png')}}" alt="" >
+                                                <img src="{{asset('frontend/images/bca.png')}}" alt="" >
                                                 
                                             </div>
-                                            <p class="fs-14 lh-22 mb-5">Transfer ke No. Rekening : 1234567</p>
+                                            <p class="fs-14 lh-22 mb-5">Atau transfer ke No. Rekening : 1234567</p>
                                         </div>
                                         </div>
                                     </div>
@@ -202,7 +202,7 @@
 
                                             <ul class="generic-list-item generic-list-item-flash fs-15">
                                                 
-                                                <li class="d-flex align-items-center justify-content-between font-weight-bold">
+                                                <li class="d-flex align-items-center justify-content-between font-weight-bold p-3">
                                                     <span class="text-black">Total:</span>
                                                     <span>Rp.{{ $cartTotal }}</span>
                                                 </li>
@@ -210,11 +210,11 @@
                                             </ul>
                                                 
                                             <!-- @endif             -->
-                                        <div class="btn-box  border-top-gray pt-3">
+                                        <div class="btn-box  border-top-gray p-3">
                                             <p class="fs-14 lh-22 mb-2">Lakukan pembayaran melalui QRIS atau Transfer Bank,</p>
                                             
                                             <!-- <p class="fs-14 lh-22 mb-3">Kemudian kirimkan bukti pembayaran ke <a href="https://wa.link/tr4xl2" class="text-color hover-underline">Admin Santutor</a></p> -->
-                                            <p class="fs-14 lh-22 mb-3">Kemudian kirimkan bukti pembayaran ke <a href="https://wa.me/6285821537304" class="text-color hover-underline">Admin Iltizam Academy.</a></p>
+                                            <p class="fs-14 lh-22 mb-3">Kemudian kirimkan bukti pembayaran ke <a href="https://wa.me/6285821537304" class="text-color hover-underline">Admin Iltizam Studio.</a></p>
                                             <p class="fs-14 lh-22 mb-2">Setelah itu, selesaikan proses pembayaran dengan menekan tombol "Proceed" di bawah ini. </p>
                                         
                                             <button type="submit" class="btn theme-btn w-100">Proceed <i class="la la-arrow-right icon ml-1"></i></button>
