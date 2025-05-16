@@ -214,7 +214,7 @@
                                             <p class="fs-14 lh-22 mb-2">Lakukan pembayaran melalui QRIS atau Transfer Bank,</p>
                                             
                                             <!-- <p class="fs-14 lh-22 mb-3">Kemudian kirimkan bukti pembayaran ke <a href="https://wa.link/tr4xl2" class="text-color hover-underline">Admin Santutor</a></p> -->
-                                            <p class="fs-14 lh-22 mb-3">Kemudian kirimkan bukti pembayaran ke <a href="https://wa.me/6285821537304" class="text-color hover-underline">Admin Iltizam Studio.</a></p>
+                                            <p class="fs-14 lh-22 mb-3">Kemudian kirimkan bukti pembayaran ke <a href="https://wa.me/6285821537304" class="text-color hover-underline">Admin Iltizam Academy.</a></p>
                                             <p class="fs-14 lh-22 mb-2">Setelah itu, selesaikan proses pembayaran dengan menekan tombol "Proceed" di bawah ini. </p>
                                         
                                             <button type="submit" class="btn theme-btn w-100">Proceed <i class="la la-arrow-right icon ml-1"></i></button>

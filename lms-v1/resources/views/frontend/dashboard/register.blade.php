@@ -1,7 +1,7 @@
 @extends('frontend.master')
 @section('home')
 @section('title')
-Register Page | Iltizam Studio
+Register Page | Iltizam Academy
 @endsection
 
 <!-- ================================
@@ -89,7 +89,7 @@ Register Page | Iltizam Studio
         <div class="btn-box">
             <div class="custom-control custom-checkbox mb-2 fs-15">
                 <input type="checkbox" class="custom-control-input" id="receiveCheckbox" required>
-                <label class="custom-control-label custom--control-label lh-20" for="receiveCheckbox">Yes! I want to get the most out of Iltizam Studio by receiving emails with exclusive deals, personal recommendations and learning tips!</label>
+                <label class="custom-control-label custom--control-label lh-20" for="receiveCheckbox">Yes! I want to get the most out of Iltizam Academy by receiving emails with exclusive deals, personal recommendations and learning tips!</label>
             </div><!-- end custom-control -->
             <div class="custom-control custom-checkbox mb-4 fs-15">
                 <input type="checkbox" class="custom-control-input" id="agreeCheckbox" required>

@@ -1,7 +1,7 @@
 @extends('frontend.master')
 @section('home')
 @section('title')
-Login Page | Iltizam Studio
+Login Page | Iltizam Academy
 @endsection
 
 <!-- ================================

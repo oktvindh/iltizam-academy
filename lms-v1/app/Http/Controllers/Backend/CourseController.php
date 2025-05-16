@@ -250,7 +250,7 @@ class CourseController extends Controller
     public function DeleteCourse($id){
         $course = Course::find($id);
         unlink($course->course_image);
-        unlink($course->video);
+        // unlink($course->video);
 
         Course::find($id)->delete();
 

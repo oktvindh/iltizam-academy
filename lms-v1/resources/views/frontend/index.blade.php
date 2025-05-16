@@ -2,7 +2,7 @@
 @section('home')
 
 @section('title')
-Iltizam Studio
+Iltizam Academy
 @endsection
 
 <!--================================

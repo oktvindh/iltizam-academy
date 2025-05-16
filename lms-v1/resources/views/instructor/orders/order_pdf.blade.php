@@ -48,11 +48,11 @@
     <tr>
         <td valign="top">
           <!-- {{-- <img src="" alt="" width="150"/> --}} -->
-          <h2 style="color: green; font-size: 26px;"><strong>Iltizam Studio</strong></h2>
+          <h2 style="color: green; font-size: 26px;"><strong>Iltizam Academy</strong></h2>
         </td>
         <td align="right">
             <pre class="font" >
-            Iltizam Studio Head Office
+            Iltizam Academy Head Office
                Email:support@iltizam.com <br>
                Mob: 1245454545 <br>
                Bogor, Indonesia <br>

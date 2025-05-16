@@ -2,7 +2,7 @@
 @section('home')
 
 @section('title')
-{{ $category->category_name }} | Iltizam Studio
+{{ $category->category_name }} | Iltizam Academy
 @endsection
 <!-- ================================
     START BREADCRUMB AREA

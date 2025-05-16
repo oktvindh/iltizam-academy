@@ -6,9 +6,9 @@
 
 <div class="sidebar-wrapper" data-simplebar="true">
     <div class="sidebar-header">
-        <div>
+        <!-- <div>
             <img src="{{ asset('backend/assets/images/logo-icon.png') }}" class="logo-icon" alt="logo icon">
-        </div>
+        </div> -->
         <div>
             <h4 class="logo-text">Instructor</h4>
         </div>

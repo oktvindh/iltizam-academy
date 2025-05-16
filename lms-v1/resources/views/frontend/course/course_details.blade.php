@@ -2,7 +2,7 @@
 @section('home')
 
 @section('title')
-{{ $course->course_name }} | Iltizam Studio
+{{ $course->course_name }} | Iltizam Academy
 @endsection
 
 
@@ -792,7 +792,7 @@
             </div><!-- end col-lg-9 -->
             <div class="col-lg-3">
                 <div class="cta-btn-box text-right">
-                    <a href="become-a-teacher.html" class="btn theme-btn">Teach on Iltizam Studio <i class="la la-arrow-right icon ml-1"></i> </a>
+                    <a href="become-a-teacher.html" class="btn theme-btn">Teach on Iltizam Academy <i class="la la-arrow-right icon ml-1"></i> </a>
                 </div>
             </div><!-- end col-lg-3 -->
         </div><!-- end row -->
